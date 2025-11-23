@@ -5,7 +5,7 @@ To write a Python program for Prim's Minimum Spanning Tree (MST) algorithm.
 
 
 ## Algorithm
-
+ 
 1. **Initialize Key Array**:
    - Initialize a `key` array to represent the minimum weight edge for each vertex, setting all values to infinity except for the first vertex, which is set to 0.
 

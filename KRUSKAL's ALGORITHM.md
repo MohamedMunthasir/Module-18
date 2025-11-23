@@ -7,7 +7,7 @@ To write a Python program for Kruskal's algorithm to find the Minimum Spanning T
 ## Algorithm
 
 1. **Sort all edges**:
-   - Sort all the edges in non-decreasing order of their weights.
+   - Sort all the edges in non-decreasing order of their weights. 
 
 2. **Initialize parent and rank arrays**:
    - Initialize the `parent` array to keep track of the set to which each vertex belongs.

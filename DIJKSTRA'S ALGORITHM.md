@@ -1,6 +1,6 @@
 # Ex.No:12B Dijkstra's Algorithm
 
-## Aim
+## Aim 
 To write a Python program for Dijkstra's single-source shortest path algorithm.
 
 

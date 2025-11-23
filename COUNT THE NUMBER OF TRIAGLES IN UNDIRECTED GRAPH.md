@@ -6,7 +6,7 @@ To write a Python program to count the number of triangles present in an undirec
 
 ## Algorithm
 
-1. **Input the Graph**:
+1. **Input the Graph**: 
    - Start by taking the number of vertices as input.
    - Represent the graph using an adjacency matrix where `graph[i][j]` indicates the presence of an edge between vertices `i` and `j`.
 
